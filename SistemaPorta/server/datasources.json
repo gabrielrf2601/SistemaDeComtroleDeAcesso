@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "include": {
+    "host": "localhost",
+    "port": 8090,
+    "url": "mongodb+srv://gabrielrf:26011998@crud-nodejs-sluhg.mongodb.net/test?retryWrites=true",
+    "database": "SistemaDB",
+    "password": "26011998",
+    "name": "include",
+    "user": "gabrielrf",
+    "connector": "mongodb"
+  }
+}
